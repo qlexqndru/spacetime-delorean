@@ -1,0 +1,9 @@
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/release/deps/libspacetimedb_bindings_macro-604db6bffd5607ff.so: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/reducer.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/sats.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/table.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/util.rs
+
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/release/deps/spacetimedb_bindings_macro-604db6bffd5607ff.d: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/reducer.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/sats.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/table.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/util.rs
+
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/lib.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/reducer.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/sats.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/table.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-bindings-macro-1.1.1/src/util.rs:

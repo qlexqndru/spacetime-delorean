@@ -1,0 +1,1 @@
+for<'a> fn(&'a ReducerContext, std::string::String, Vec<std::string::String>) -> Result<u64, std::string::String> {create_poll}

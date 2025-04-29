@@ -1,0 +1,11 @@
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/debug/deps/libdecorum-2cfcdc81ab795fa1.rmeta: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs
+
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/debug/deps/decorum-2cfcdc81ab795fa1.d: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs
+
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs:

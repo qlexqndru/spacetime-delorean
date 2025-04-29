@@ -1,0 +1,11 @@
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/debug/deps/libspacetimedb-68911c525948908e.rmeta: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/log_stopwatch.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/logger.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rng.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rt.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/table.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/../README.md
+
+/home/qlexqndru/Opusdem/unde.io/jin/spacetime-module/target/debug/deps/spacetimedb-68911c525948908e.d: /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/lib.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/log_stopwatch.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/logger.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rng.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rt.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/table.rs /home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/../README.md
+
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/lib.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/log_stopwatch.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/logger.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rng.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/rt.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/table.rs:
+/home/qlexqndru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-1.1.1/src/../README.md:

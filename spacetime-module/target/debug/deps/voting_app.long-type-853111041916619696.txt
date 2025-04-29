@@ -1,0 +1,1 @@
+spacetimedb::spacetimedb_lib::ProductType: From<[(Option, spacetimedb::spacetimedb_lib::AlgebraicType); 4]>
